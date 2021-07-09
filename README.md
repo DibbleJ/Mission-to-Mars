@@ -1,7 +1,7 @@
 # Mission-to-Mars
 
 # Overview
-  The purpose of this analysis is to collect information about Mars, store it in a mongo database, and display it for other in a Flask app. The information is collected from a number of different sites listed below:
+  The purpose of this analysis is to collect information about Mars, store it in a mongo database, and display it in a Flask app. The information is collected from a number of different sites listed below:
   - Mars News is from https://redplanetscience.com/.
   - The Featured Image is from https://spaceimages-mars.com.
   - The Mars Facts are from https://galaxyfacts-mars.com.
